@@ -1,0 +1,31 @@
+Copyright (c) 2026 Joseph Dykens
+All Rights Reserved.
+
+PROPRIETARY LICENSE AGREEMENT
+
+1. OWNERSHIP
+This software and associated documentation files (the "Software") are the sole property of Joseph Dykens (the "Author"). All intellectual property rights, including copyrights and trade secrets, are retained by the Author.
+
+2. RESTRICTIONS ON USE
+Strictly NO part of this code may be copied, reproduced, distributed, modified, or transmitted in any form or by any means, electronic or mechanical, without the express written permission of the Author.
+
+   EXCEPTION FOR CONTRIBUTION: 
+   Permission is granted to modify the file "cards.json" ONLY for the specific purpose of submitting a contribution (Pull Request) back to the original Author. This exception does not grant the right to distribute, host, or run modified versions of the Software independently.
+
+3. NON-COMMERCIAL CLAUSE
+Commercial use of this Software is STRICTLY PROHIBITED. This includes, but is not limited to:
+   - Selling, licensing, or renting the Software.
+   - Using the Software to generate revenue (including subscriptions, donations, or ad revenue).
+   - Incorporating the Software into a commercial product or service.
+
+4. PERMISSIONS
+To obtain written permission for commercial use, modification, or redistribution, you must contact the Author directly:
+
+   Contact: Joseph Dykens
+   Email: discordrosell@gmail.com
+
+5. ENFORCEMENT AND LEGAL ACTION
+Unauthorized use, copying, modification, or distribution of this Software constitutes a violation of copyright law and this License Agreement. The Author reserves the right to pursue any and all legal remedies available under applicable law—including civil litigation and claims for damages—against any individual or entity found to be in violation of these terms.
+
+6. DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
